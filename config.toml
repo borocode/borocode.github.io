@@ -2,3 +2,35 @@ baseURL = 'http://boroghor.com/'
 languageCode = 'en-us'
 title = 'blog'
 theme = "sk3"
+copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
+
+enableGitInfo          = true
+enableInlineShortcodes = true
+
+paginate               = 1
+relativeURLs           = true
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+    
+[Params]
+# enableExternalSvg    = true
+enableInfoBox        = true
+enableListLastModify = true
+enableOpenToc        = true
+enableUserCanonical  = false
+favicon              = "/favicon.ico"
+mainSections         = "posts"
+startdate            = "2022-08-13"
+pagewidth            = "800px"
+	[Params.card]
+	date    = false
+	summary = true
+   width = "55%"
