@@ -1,0 +1,4 @@
+baseURL = 'http://boroghor.com/'
+languageCode = 'en-us'
+title = 'blog'
+theme = "sk3"
