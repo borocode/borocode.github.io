@@ -4,13 +4,10 @@ title = 'blog'
 theme = "sk3"
 copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
 
-enableGitInfo          = true
+enableGitInfo          = false
 enableInlineShortcodes = true
-
 paginate               = 1
 relativeURLs           = true
-
-
 [menu]
 
   [[menu.main]]
@@ -18,12 +15,10 @@ relativeURLs           = true
     name = "About"
     url = "/about/"
     weight = 10
-
-    
 [Params]
 # enableExternalSvg    = true
 enableInfoBox        = true
-enableListLastModify = true
+enableListLastModify = false
 enableOpenToc        = true
 enableUserCanonical  = false
 favicon              = "/favicon.ico"
@@ -31,6 +26,6 @@ mainSections         = "posts"
 startdate            = "2022-08-13"
 pagewidth            = "800px"
 	[Params.card]
-	date    = false
+	date    = true
 	summary = true
    width = "55%"
