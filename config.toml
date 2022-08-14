@@ -6,7 +6,7 @@ copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
 
 enableGitInfo          = true
 enableInlineShortcodes = true
-paginate               = 100
+paginate               = 12
 relativeURLs           = true
 summaryLength = 10
 [menu]
