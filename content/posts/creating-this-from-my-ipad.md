@@ -9,4 +9,4 @@ Ok. Coming to the end of this post and I'm realizing I have no elegant way to pu
 
 edit- fail. test 
 
-edit2- lfg, kind of an unelegant solution but got something up and running. Not sure if I would use this stack in an enterprise solution but I don't think I can make any better of the compromises wrt mobility and security. Pretty happy. Technically, I should be able to post from any where in the world without relying on a service to stay online. This is a pretty good setup for text posts but would love to come up with a solution for other media too.
+edit2- lfg, kind of an inelegant solution but got something up and running. Not sure if I would use this stack in an enterprise solution but I don't think I can make any better of the compromises wrt mobility and security. Pretty happy. Technically, I should be able to post from any where in the world without relying on a service to stay online. This is a pretty good setup for text posts but would love to come up with a solution for other media too.
