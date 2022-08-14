@@ -28,4 +28,4 @@ pagewidth            = "800px"
 	[Params.card]
 	date    = true
 	summary = true
-   width = "55%"
+  # width = "55%"
