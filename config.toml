@@ -6,7 +6,7 @@ copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
 
 enableGitInfo          = true
 enableInlineShortcodes = true
-paginate               = 3
+paginate               = 100
 relativeURLs           = true
 summaryLength = 10
 [menu]
@@ -25,8 +25,8 @@ enableUserCanonical  = false
 favicon              = "/favicon.ico"
 mainSections         = "posts"
 startdate            = "2022-08-13"
-pagewidth            = "1200px"
+pagewidth            = "3000px"
 	[Params.card]
 	date    = true
 	summary = true
-   width = "32%"
+   width = "24%"

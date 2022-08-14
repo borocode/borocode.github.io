@@ -1,7 +1,7 @@
 ---
 title: "This Feels Like When I Ghosted Twitter for Notion"
 date: 2022-08-14T05:40:17-04:00
-draft: true
+draft: false
 ---
 
 I’m trying to write this post right here in the notes app on iPad. 

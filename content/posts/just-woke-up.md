@@ -5,3 +5,7 @@ draft: false
 ---
 
 I need to read the last few posts I made. Adobe just charged me $600 for the year. Bruh. I'm so down bad. 
+
+edit
+
+alright, I sounded too optimistic last night in these posts. All the drive and motivation I had yesterday is gone lmfao....coping and seething tbh
