@@ -6,7 +6,7 @@ copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
 
 enableGitInfo          = true
 enableInlineShortcodes = true
-paginate               = 1
+paginate               = 3
 relativeURLs           = true
 summaryLength = 10
 [menu]
@@ -29,4 +29,4 @@ pagewidth            = "1200px"
 	[Params.card]
 	date    = true
 	summary = true
-   width = "24%"
+   width = "32%"

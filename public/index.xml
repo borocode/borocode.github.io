@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog</title>
+    <link>http://boroghor.com/</link>
+    <description>Recent content on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright>
+    <lastBuildDate>Sat, 13 Aug 2022 22:36:49 -0400</lastBuildDate><atom:link href="http://boroghor.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uhhhh</title>
+      <link>http://boroghor.com/posts/uhhhh/</link>
+      <pubDate>Sat, 13 Aug 2022 22:36:49 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/uhhhh/</guid>
+      <description>idk if this is the best flow for me&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Been Trying to Figure Out a Way to Push Posts From iOS</title>
+      <link>http://boroghor.com/posts/been-trying-to-figure-out-a-way-to-push-posts-from-ios/</link>
+      <pubDate>Sat, 13 Aug 2022 21:15:32 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/been-trying-to-figure-out-a-way-to-push-posts-from-ios/</guid>
+      <description>Hugo set up on my Windows machine makes it so I can commit these posts fairly easily while at my machine but I&amp;rsquo;m trying to figure out a mobile stack.</description>
+    </item>
+    
+    <item>
+      <title>Will Push This Live Soon</title>
+      <link>http://boroghor.com/posts/will-push-this-live-soon/</link>
+      <pubDate>Sat, 13 Aug 2022 19:31:44 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/will-push-this-live-soon/</guid>
+      <description>using gitea currently for &amp;ldquo;version control&amp;rdquo; (everything is in house at the moment) but will make a public repo on github and use gitea push mirror functionality to push changes done here periodically.</description>
+    </item>
+    
+    <item>
+      <title>Getting the Hang of This</title>
+      <link>http://boroghor.com/posts/getting-the-hang-of-this/</link>
+      <pubDate>Sat, 13 Aug 2022 19:11:27 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/getting-the-hang-of-this/</guid>
+      <description>okay so I think I like this theming so far. will work on it as I go.</description>
+    </item>
+    
+    <item>
+      <title>need to be more creative</title>
+      <link>http://boroghor.com/posts/second-post/</link>
+      <pubDate>Sat, 13 Aug 2022 18:35:49 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/second-post/</guid>
+      <description>this is kind of cool and kind of nerve wracking</description>
+    </item>
+    
+    <item>
+      <title>naming posts different things</title>
+      <link>http://boroghor.com/posts/first-post/</link>
+      <pubDate>Sat, 13 Aug 2022 18:14:20 -0400</pubDate>
+      
+      <guid>http://boroghor.com/posts/first-post/</guid>
+      <description>first post, don&amp;rsquo;t understand syntax yet, more to come, hold up</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://boroghor.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://boroghor.com/about/</guid>
+      <description>This blog is better than tweeting I guess. I am in tons of cc debt and don&amp;rsquo;t want a &amp;ldquo;job&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
