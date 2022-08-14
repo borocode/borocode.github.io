@@ -8,6 +8,7 @@ enableGitInfo          = false
 enableInlineShortcodes = true
 paginate               = 1
 relativeURLs           = true
+summaryLength = 10
 [menu]
 
   [[menu.main]]
@@ -24,8 +25,8 @@ enableUserCanonical  = false
 favicon              = "/favicon.ico"
 mainSections         = "posts"
 startdate            = "2022-08-13"
-pagewidth            = "800px"
+pagewidth            = "1200px"
 	[Params.card]
 	date    = true
 	summary = true
-  # width = "55%"
+   width = "24%"
