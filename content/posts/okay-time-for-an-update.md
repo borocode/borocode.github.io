@@ -11,6 +11,7 @@ Not sure if it was a soft lock but my mouse could move but I could not complete 
 The Arch build is a 2700x on a ASUS X370-F GAMING with a 3080. I use this same machine 24/7 with HiveOS (16gb SATA SSD) so I know it is a working machine. 
 
 How I fixed it? Not sure exactly but was up til morning with no issues before booting back into HiveOS with confidence (more on that lil later). I used pamac to install disable-c6-systemd, enabled IOMMU and changed power idle control to typical current in the motherboards BIOS and disabled APST by adding this kernel parameter nvme_core.default_ps_max_latency_us=0 to GRUB (I hope I am explaining this sufficiently). 
+
 Referencing the Arch Linux wiki namely Ryzen and NVMe pages and a few other bug reports I found while Googling. 
 
 So while Arch works great (so far), I wish I got the same hashrate I get on HiveOS (86 mh/s on Arch 515.xx, 92+ mh/s on HiveOS 455.xx) but maybe with some more tweaking I can get it closer. Currently, just finished my 3x5 for the day and added a stats page to the menu (hamburger with "About" page) with a working table. 
