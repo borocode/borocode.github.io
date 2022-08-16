@@ -18,8 +18,10 @@ So while Arch works great (so far), I wish I got the same hashrate I get on Hive
 
 To accomplish this, I am exporting .csv from PERSEUS iOS app, using Tailscale to send it to myself via home Synapse/Matrix server on Element messenger and am using https://www.tablesgenerator.com/markdown_tables so I can easily display the table on Hugo. Kind of a clunky flow but if I make updates only once or twice a week it should be something I can handle. 
 
-I have all my boxes out of the storage rooms because I was looking for the NVMe heatsink I got with my main rigs Sabrent RMA drive. I found it the heatsink yesterday but I just ate for the first time today (ramen, "Shin Black with beef bone broth" before microwave garnished with small bits of beef jerky) still hungry but will figure it out. 
+I have all my boxes out of both of the storage rooms because I was looking for the NVMe heatsink I got with my main rigs Sabrent RMA drive. I found the heatsink yesterday (was in a box under some boxes in a room) but I just ate for the first time today (ramen, "Shin Black with beef bone broth" and before microwave garnished with small bits of beef jerky, still hungry but will figure it out) so I am just typing this procrastinating (and in pain, lowkey) instead of putting boxes back on boxes in a room. 
 
 Okay. 
 
-Time to type "draft: false", save the file, stage changes, commit changes and push/sync.
+Time to type "draft: false", save the file, stage changes, commit changes and push/sync. 
+
+Wait. I didn't even proof read the last paragraph. Oops. Let's try this again.
