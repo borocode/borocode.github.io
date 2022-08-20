@@ -536,3 +536,17 @@ Goal is still 150lbs by October lol.
 | Mon, Aug 15, 2022 | 133.9 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
 | Mon, Aug 15, 2022 | 133.9 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
 | Mon, Aug 15, 2022 | 133.9 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Wed, Aug 17, 2022 | 137.0 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
