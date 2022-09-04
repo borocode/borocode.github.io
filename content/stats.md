@@ -550,3 +550,52 @@ Goal is still 150lbs by October lol.
 | Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
 | Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
 | Fri, Aug 19, 2022 | 136.9950868 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Sun, Aug 21, 2022 | 135.6 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Tue, Aug 23, 2022 | 137.41 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Overhead Press | 1 | 75.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Overhead Press | 2 | 75.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Overhead Press | 3 | 75.0 | 5 |
+| Thu, Aug 25, 2022 | 141.0 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Sat, Aug 27, 2022 | 138.01 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Overhead Press | 1 | 75.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Overhead Press | 2 | 75.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Overhead Press | 3 | 75.0 | 5 |
+| Mon, Aug 29, 2022 | 138.009212 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Bench Press | 1 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Bench Press | 2 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Bench Press | 3 | 115.0 | 5 |
+| Wed, Aug 31, 2022 | 138.9 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Squat | 1 | 115.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Squat | 2 | 115.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Squat | 3 | 115.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Overhead Press | 1 | 75.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Overhead Press | 2 | 75.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Overhead Press | 3 | 75.0 | 5 |
+| Fri, Sep 02, 2022 | 136.7 | SS 3x5 - Phase 1 | Deadlift | 1 | 155.0 | 5 |
