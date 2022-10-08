@@ -4,4 +4,6 @@ date: 2022-10-08T16:36:12-04:00
 draft: false
 ---
 
-Not sure why but the created and updated dates are not working correctly. Will troubleshoot some other time.
+Not sure why but the created and updated dates are not working correctly. Will troubleshoot some other time. 
+
+edit- just kidding. Got it working. Blog is live at borocode.github.io (or it should be).......
