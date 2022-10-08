@@ -27,8 +27,8 @@ summaryLength = 10
 [Params]
 # enableExternalSvg    = true
 enableInfoBox        = true
-enableListLastModify = false
-enableOpenToc        = true
+enableListLastModify = true
+enableOpenToc        = false
 enableUserCanonical  = false
 favicon              = "/favicon.ico"
 mainSections         = "posts"

@@ -10,3 +10,6 @@ edit- just kidding. Got it working. Blog is live at borocode.github.io (or it sh
 
 
 edit2- ok still not working. gitinfo failing the last modified dates. not sure what to do. I'm pushing the repo from gitea to github so there may be an issue there but idk.
+
+
+edit3- The last modified + gitinfo params is fucking up after github pages does its thing. It is working perfectly locally. Oh well.
