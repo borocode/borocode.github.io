@@ -26,7 +26,7 @@ summaryLength = 10
     
 [Params]
 # enableExternalSvg    = true
-enableInfoBox        = true
+enableInfoBox        = false
 enableListLastModify = true
 enableOpenToc        = false
 enableUserCanonical  = false
@@ -35,6 +35,6 @@ mainSections         = "posts"
 startdate            = "2022-08-13"
 pagewidth            = "3000px"
 	[Params.card]
-	date    = true
+	date    = false
 	summary = true
    width = "24%"
