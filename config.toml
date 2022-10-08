@@ -4,7 +4,7 @@ title = 'blog'
 theme = "sk3"
 copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
 
-enableGitInfo          = false
+enableGitInfo          = true
 enableInlineShortcodes = true
 paginate               = 12
 relativeURLs           = true
