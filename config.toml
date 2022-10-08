@@ -1,4 +1,4 @@
-baseURL = 'http://borocode.github.io/borocode.github.io'
+baseURL = 'http://borocode.github.io/'
 languageCode = 'en-us'
 title = 'blog'
 theme = "sk3"
