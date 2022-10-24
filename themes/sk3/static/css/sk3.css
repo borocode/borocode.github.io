@@ -378,14 +378,3 @@ sk3-toc ul ul {
 	opacity: 1;
 }
 
-div.covered-div {
-	position: relative;
-  }
-  
-  a.cover-link {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-  }
