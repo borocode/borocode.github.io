@@ -36,7 +36,7 @@
 	<div></div>
 
 	<!--cards-->
-	<section class="sk3-flex sk3-flex-center-h">
+	<section class="sk3-flex sk3-flex-center-h" >
 		{{range $paginator.Pages}}
 		<div class="sk3-card box">
 			<div class="sk3-flex">
@@ -51,7 +51,7 @@
 				{{end}}
 				{{end}}
 			</div>
-			{{if site.Params.card.summary}}<div>{{.Summary}}</div>{{end}}
+			{{if site.Params.card.summary}}	<a href="{{.RelPermalink}}"><div>{{.Summary}}</a></div>{{end}}
 		</div>
 		{{end}}
 	</section>

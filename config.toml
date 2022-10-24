@@ -4,12 +4,12 @@ languageCode = "en"
 title = 'blog'
 theme = "sk3"
 copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
-
+summaryLength = 12
 enableGitInfo          = true
 enableInlineShortcodes = true
 paginate               = 12
 relativeURLs           = true
-summaryLength = 12
+
 [menu]
 
   [[menu.main]]
