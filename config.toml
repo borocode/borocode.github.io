@@ -45,7 +45,7 @@ pagewidth            = "3000px"
    border = "#39ff14"
    link = "#39ff14"
    bg = "black"
-   text = "white"
+   text = "#fff000"
    
 	[Params.sociallink]
 	facebook       = "rishadh"
@@ -54,13 +54,3 @@ pagewidth            = "3000px"
 	instagram      = "boroghor"
 	rss            = true
 	youtubeuser    = "rishard"
-
-  	[Params.socialshare]
-	facebook  = true
-	instagram = true
-	linkedin  = true
-	pinterest = true
-	reddit    = true
-	telegram  = true
-	twitter   = true
-	vk        = true
