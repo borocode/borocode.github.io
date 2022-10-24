@@ -2,6 +2,8 @@
 
 whgat if i made a blog with hugo
 
+https://blog.boroghor.com
+
 ### License
 VIRAL PUBLIC LICENSE
 Copyleft (ɔ) All Rights Reversed
