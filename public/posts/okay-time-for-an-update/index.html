@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en"	><head>
+	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	
+	
+		
+	
+	
+	<title>blog | Okay Time for an Update</title>
+	
+	
+	
+		
+		
+			
+		
+	
+	<meta name="description" content="blog - posts - Okay Time for an Update"/>
+	
+	
+	
+	
+
+	
+	
+
+	
+	<link rel="icon" href="../../favicon.ico">
+
+	
+	<link rel="stylesheet" href="../../css/sk3.css">
+	
+	<style>
+		
+		@media only screen and (min-width: 993px){:root{--width-card: 24%;}}
+		
+		
+		@media only screen and (min-width: 993px){:root{--width-html: 3000px;}}
+		
+		:root{--color-bg:black;}
+		:root{--color-border:#39ff14;}
+		:root{--color-link:white;}
+		:root{--color-txt:white;}
+		
+	</style>
+	
+	
+
+	
+	
+	<script>
+		enableOpenToc=false
+		enableOpenToc= true 
+	</script>
+	<script defer src="../../js/sk3.js"></script>
+	
+	
+	
+	
+	
+	
+	
+	
+	<script>
+		
+
+
+
+
+
+
+	</script>
+	
+	
+	<link href="//use.fontawesome.com/releases/v5.13.1/css/all.css" rel="stylesheet">
+	
+</head><body><header class="sk3-flex">
+
+	
+	
+	
+<nav class="sk3-sidebar box-right sk3-sidebar-trigger">
+	<div></div>
+	
+	
+
+	
+	
+	<hr>
+	<ul class="sk3-pad-h-full sk3-sidebar-list-item">
+		
+		
+		
+		<li>
+			<a href="../../stats/">
+				
+				<span>Stats</span>
+			</a>
+		</li>
+		
+		
+		
+		<li>
+			<a href="../../about/">
+				
+				<span>About</span>
+			</a>
+		</li>
+		
+		
+		
+		<li>
+			<a href="../../contact/">
+				
+				<span>Contact</span>
+			</a>
+		</li>
+		
+		
+	</ul>
+	
+
+	
+
+	
+	<hr>
+	<div class="sk3-flex sk3-pad-h-full sk3-flex-left-h">
+		<b>Follow</b> 
+
+<sk3-social>
+	
+		
+			
+			
+			<a href="//www.twitch.tv/borokhela" class="sk3-social-fab fab fa-twitch"></a>
+		
+	
+		
+			
+			
+			<a href="//www.youtube.com/user/rishard" class="sk3-social-fab fab fa-youtube"></a>
+		
+	
+		
+			
+			
+			<a href="//www.discord.gg/QRuHnxQWb4" class="sk3-social-fab fab fa-discord"></a>
+		
+	
+		
+			
+			
+			<a href="//github.com/borocode/" class="sk3-social-fab fab fa-github"></a>
+		
+	
+		
+			
+			
+			<a href="//www.facebook.com/rishadh/" class="sk3-social-fab fab fa-facebook"></a>
+		
+	
+		
+			
+			
+			<a href="//www.flickr.com/photos/rishadphoto/" class="sk3-social-fab fab fa-flickr"></a>
+		
+	
+		
+			
+			
+			<a href="//www.instagram.com/boroghor/" class="sk3-social-fab fab fa-instagram"></a>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			
+			
+			<a href="../../index.xml" class="sk3-social-fab fas fa-rss"></a>
+		
+	
+</sk3-social>
+
+
+	</div>
+	
+
+	<hr>
+
+</nav>
+<div class="sk3-sidebar-mask sk3-sidebar-btn sk3-sidebar-trigger"></div>
+	
+	
+	<div class="sk3-flex">
+		<div class="sk3-sidebar-btn">🜆</div>
+		<a class="sk3-title-pad-left sk3-margin-r" href="../../"><h1>blog</h1></a>
+		
+	</div>
+
+</header><div id="content">
+<div class="main">
+
+	<div></div>
+
+	
+	
+	<heading>
+		<h2>Okay Time for an Update</h2>
+	</heading>
+	
+
+	<div></div>
+
+	
+	
+	
+	
+
+	
+	<content class="sk3-margin-v-full"><p>Didn&rsquo;t get too much done on this yesterday but got the Arch install working on the $40 1tb NVMe I picked up on Facebook Marketplace. The seller mentioned it was their main drive for three years&hellip; naturally, I wrote the drive off as faulty when a fresh Arch install would just crash randomly.</p>
+<p>Not sure if it was a soft lock but my mouse could move but I could not complete anything in the OS. Networking was still working but my Firefox would stop responding. Could not do anything in Konsole.</p>
+<p>The Arch build is a 2700x on a ASUS X370-F GAMING with a 3080. I use this same machine 24/7 with HiveOS (16gb SATA SSD) so I know it is a working machine.</p>
+<p>How I fixed it? Not sure exactly but was up til morning with no issues before booting back into HiveOS with confidence (more on that lil later). I used pamac to install disable-c6-systemd, enabled IOMMU and changed power idle control to typical current in the motherboards BIOS and disabled APST by adding this kernel parameter nvme_core.default_ps_max_latency_us=0 to GRUB (I hope I am explaining this sufficiently).</p>
+<p>Referencing the Arch Linux wiki namely Ryzen and NVMe pages and a few other bug reports I found while Googling.</p>
+<p>So while Arch works great (so far), I wish I got the same hashrate I get on HiveOS (86 mh/s on Arch 515.xx, 92+ mh/s on HiveOS 455.xx) but maybe with some more tweaking I can get it closer. Currently, just finished my 3x5 for the day and added a stats page to the menu (hamburger with &ldquo;About&rdquo; page) with a working table.</p>
+<p>To accomplish this, I am exporting .csv from PERSEUS iOS app, using Tailscale to send it to myself via home Synapse/Matrix server on Element messenger and am using <a href=https://www.tablesgenerator.com/markdown_tables
+
+ target=_blank 
+
+>https://www.tablesgenerator.com/markdown_tables</a> so I can easily display the table on Hugo. Kind of a clunky flow but if I make updates only once or twice a week it should be something I can handle.</p>
+<p>I have all my boxes out of both of the storage rooms because I was looking for the NVMe heatsink I got with my main rigs Sabrent RMA drive. I found the heatsink yesterday (was in a box under some boxes in a room) but I just ate for the first time today (ramen, &ldquo;Shin Black with beef bone broth&rdquo; and before microwave garnished with small bits of beef jerky, still hungry but will figure it out) so I am just typing this procrastinating (and in pain, lowkey) instead of putting boxes back on boxes in a room.</p>
+<p>Okay.</p>
+<p>Time to type &ldquo;draft: false&rdquo;, save the file, stage changes, commit changes and push/sync.</p>
+<p>Wait. I didn&rsquo;t even proof read the last paragraph. Oops. Let&rsquo;s try this again.</p>
+</content>
+
+	<div></div>
+
+	
+	<section class="sk3-margin-v-full">
+		
+		
+<section class="sk3-flex sk3-flex-center-h">
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	<div class="sk3-card sk3-flex sk3-flex-center-h box">
+		<div class="sk3-flex sk3-flex-center-v sk3-flex-center-h">
+			
+			
+			<a class="sk3-margin-h txt-center-h" href="../../posts/just-woke-up/"><h3>&lt;&lt; Just Woke Up</h3></a>
+			
+			
+			
+			<a class="sk3-margin-h txt-center-h" href="../../posts/drinking-and-signing-transactions/"><h3>Drinking and Signing Transactions >></h3></a>
+			
+		</div>
+	</div>
+	
+	
+
+	
+	
+	
+
+</section>
+		
+	</section>
+
+	<div></div>
+
+	
+	
+
+</div>
+
+	</div>
+<footer class="sk3-flex sk3-flex-center-h sk3-margin-v-full sk3-pad-v-full">
+<div class="sk3-pad-h txt-center-h">
+    Power by <a href="//gohugo.io">Hugo</a>.
+  </div>
+  <div class="sk3-pad-h txt-center-h">
+    Theme <a href="//github.com/J-Siu/hugo-theme-sk3/">SK3</a> by
+    <a href="//github.com/J-Siu/">J-Siu</a>.
+  </div>
+  <div class="sk3-pad-h txt-center-h">
+	 VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed 
+  </div>
+</footer>
+
+<footer class="sk3-flex sk3-flex-center-h sk3-margin-v-full">
+
+
+  </footer>
+
+ 
+</body>
+
+</html>

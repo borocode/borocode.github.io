@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on blog</title>
-    <link>http://boroghor.com/categories/</link>
+    <link>https://borocode.github.io/categories/</link>
     <description>Recent content in Categories on blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright><atom:link href="http://boroghor.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright><atom:link href="https://borocode.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
