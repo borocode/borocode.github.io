@@ -16,7 +16,7 @@
 	{{if (default true .Params.toc)}}
 	{{if and (ge (len .TableOfContents) 100) (ne .Params.toc "false")}}
 	<section class="box sk3-margin-v-full">
-		<div class="collapsible">ↈ̶̪͇̘́̉̾̒ Table of Content</div>
+		<div class="collapsible">Table of Content</div>
 		<sk3-toc>{{.TableOfContents}}</sk3-toc>
 	</section>
 	{{end}}

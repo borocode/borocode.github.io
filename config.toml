@@ -16,20 +16,26 @@ summaryLength = 12
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 15
 
   [[menu.main]]
     identifier = "stats"
     name = "Stats"
     url = "/stats/"
-    weight = 10
+    weight = 5
+
+      [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
 
     
 [Params]
 enableExternalSvg    = true
 enableInfoBox        = true
 enableListLastModify = false
-enableOpenToc        = false
+enableOpenToc        = true
 enableUserCanonical  = false
 favicon              = "/favicon.ico"
 mainSections         = "posts"
