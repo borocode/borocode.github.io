@@ -26,7 +26,7 @@ summaryLength = 12
 
     
 [Params]
-# enableExternalSvg    = true
+enableExternalSvg    = true
 enableInfoBox        = true
 enableListLastModify = false
 enableOpenToc        = false
@@ -43,14 +43,17 @@ pagewidth            = "3000px"
 
    [Params.color]
    border = "#39ff14"
-   link = "#white"
+   link = "white"
    bg = "black"
    text = "white"
    
 	[Params.sociallink]
-	facebook       = "rishadh"
-	flickr          = "rishadphoto"
+  youtubeuser    = "rishard"
 	github         = "borocode"
-	instagram      = "boroghor"
 	rss            = true
-	youtubeuser    = "rishard"
+  discord = "QRuHnxQWb4"
+  twitch = "borokhela"
+  flickr = "rishadphoto"
+  instagram = "boroghor"
+  facebook = "rishadh"
+	

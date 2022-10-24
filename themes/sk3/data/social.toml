@@ -1,4 +1,26 @@
 [[site]]
+cls = "fab fa-twitch"
+id  = "twitch"
+svg = "twitch"
+url = "//www.twitch.tv/%s"
+[[site]]
+cls = "fab fa-youtube"
+id  = "youtubeuser"
+svg = "youtube"
+url = "//www.youtube.com/user/%s"
+[[site]]
+cls = "fab fa-discord"
+id  = "discord"
+svg = "discord"
+url = "//www.discord.gg/%s"
+
+
+
+[[site]]
+cls = "fab fa-github"
+id  = "github"
+url = "//github.com/%s/"
+[[site]]
 cls = "fab fa-facebook"
 id  = "facebook"
 url = "//www.facebook.com/%s/"
@@ -6,10 +28,6 @@ url = "//www.facebook.com/%s/"
 cls = "fab fa-flickr"
 id  = "flickr"
 url = "//www.flickr.com/photos/%s/"
-[[site]]
-cls = "fab fa-github"
-id  = "github"
-url = "//github.com/%s/"
 [[site]]
 cls = "fab fa-instagram"
 id  = "instagram"
@@ -46,11 +64,7 @@ url = "//twitter.com/%s"
 cls = "fab fa-vimeo"
 id  = "vimeo"
 url = "//vimeo.com/%s"
-[[site]]
-cls = "fab fa-youtube"
-id  = "youtubeuser"
-svg = "youtube"
-url = "//www.youtube.com/user/%s"
+
 [[site]]
 cls = "fab fa-youtube"
 id  = "youtubechannel"
