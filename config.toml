@@ -1,5 +1,6 @@
 baseURL = 'https://borocode.github.io/'
-languageCode = 'en-us'
+DefaultContentLanguage = "en"
+languageCode = "en"
 title = 'blog'
 theme = "sk3"
 copyright = "VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed"
@@ -8,7 +9,7 @@ enableGitInfo          = true
 enableInlineShortcodes = true
 paginate               = 12
 relativeURLs           = true
-summaryLength = 10
+summaryLength = 12
 [menu]
 
   [[menu.main]]
@@ -26,15 +27,40 @@ summaryLength = 10
     
 [Params]
 # enableExternalSvg    = true
-enableInfoBox        = false
-enableListLastModify = true
+enableInfoBox        = true
+enableListLastModify = false
 enableOpenToc        = false
 enableUserCanonical  = false
 favicon              = "/favicon.ico"
 mainSections         = "posts"
 startdate            = "2022-08-13"
 pagewidth            = "3000px"
+
 	[Params.card]
-	date    = false
+	date    = true
 	summary = true
    width = "24%"
+
+   [Params.color]
+   border = "#39ff14"
+   link = "#39ff14"
+   bg = "black"
+   text = "white"
+   
+	[Params.sociallink]
+	facebook       = "rishadh"
+	flickr          = "rishadphoto"
+	github         = "borocode"
+	instagram      = "boroghor"
+	rss            = true
+	youtubeuser    = "rishard"
+
+  	[Params.socialshare]
+	facebook  = true
+	instagram = true
+	linkedin  = true
+	pinterest = true
+	reddit    = true
+	telegram  = true
+	twitter   = true
+	vk        = true
