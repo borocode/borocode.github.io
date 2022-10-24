@@ -5,7 +5,7 @@ draft: false
 prevnext : false
 
 ---
-Goal is still 150lbs by October lol.
+Goal is still 150lbs by October lol. edit- fail
 
 | Date | Body Weight (LB) | Workout Name | Exercise Name | Set Order | Weight (LB) | Reps |
 |---|---|---|---|---|---|---|
