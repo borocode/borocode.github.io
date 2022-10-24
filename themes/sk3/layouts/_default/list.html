@@ -35,10 +35,14 @@
 
 	<div></div>
 
-	<!--cards-->
+	<!--cards-->		
 	<section class="sk3-flex sk3-flex-center-h" >
 		{{range $paginator.Pages}}
-		<div class="sk3-card box">
+
+	
+		<div class="sk3-card box" onclick="javascript:window.location.href={{.RelPermalink}} "> <!--https://stackoverflow.com/questions/4465923/a-href-link-for-entire-div-in-html-css/67156294#67156294 -->
+		
+
 			<div class="sk3-flex">
 				<a class="sk3-flex-inline" href="{{.RelPermalink}}">
 					<h3>{{.Title}}</h3>
@@ -51,8 +55,8 @@
 				{{end}}
 				{{end}}
 			</div>
-			{{if site.Params.card.summary}}	<a href="{{.RelPermalink}}"><div>{{.Summary}}</a></div>{{end}}
-		</div>
+			{{if site.Params.card.summary}}	<div>{{.Summary}}</div>{{end}}
+		</div> 
 		{{end}}
 	</section>
 
