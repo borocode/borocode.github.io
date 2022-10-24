@@ -8,7 +8,7 @@ prevnext : false
 Goal is still 150lbs by October lol. edit- fail
 
 | Date | Body Weight (LB) | Workout Name | Exercise Name | Set Order | Weight (LB) | Reps |
-|---|---|---|---|---|---|---|
+|---:|---:|---:|---:|---:|---:|---:|
 | Fri, Jan 28, 2022 | 125.1 | GreySkull LP - Phraks variant | Bench Press | 1 | 20.0 | 5 |
 | Fri, Jan 28, 2022 | 125.1 | GreySkull LP - Phraks variant | Bench Press | 2 | 20.0 | 5 |
 | Fri, Jan 28, 2022 | 125.1 | GreySkull LP - Phraks variant | Bench Press | 3 | 20.0 | 12 |
