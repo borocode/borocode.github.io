@@ -43,9 +43,9 @@ pagewidth            = "3000px"
 
    [Params.color]
    border = "#39ff14"
-   link = "#39ff14"
+   link = "#white"
    bg = "black"
-   text = "#fff000"
+   text = "white"
    
 	[Params.sociallink]
 	facebook       = "rishadh"
