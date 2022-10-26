@@ -8,3 +8,7 @@ this is my entry image
 ![](/gunplachallenge.png)
 this is my entry quote RT
 {{<tweet 1585419239351279616>}}
+
+edit
+
+i will pay overdue cc bills if i win
