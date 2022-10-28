@@ -11,3 +11,14 @@ took this ss after springing up out of my bed cartoonishly
 so close
 ![](/msedge_ProUsRdyTl.png)
 ok, so did i catch a generational bootom or not// im tired of closing trades too early
+
+
+edit
+
+
+![](/msedge_ME9S8obDFu.png)
+should I close?
+
+
+### [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
+
