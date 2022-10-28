@@ -38,4 +38,10 @@ edit
 should I close?  
 
 
-{{<youtube xU8Pbsq6r5U>}}
+{{<youtube xU8Pbsq6r5U>}}  
+
+edit  
+
+itll probably reverse after I commit this ss  
+
+![](/msedge_2aWNCRX8uN.png)
