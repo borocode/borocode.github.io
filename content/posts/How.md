@@ -45,3 +45,7 @@ edit
 itll probably reverse after I commit this ss  
 
 ![](/msedge_2aWNCRX8uN.png)
+
+edit  
+
+## [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
