@@ -10,6 +10,13 @@ needa eat a meal or two
 
 just paid minimum due on my gemini and wells fargo card🤮  
 
-asking for love feels 
-like im asking for too much 
-neglect, my best friend
+  
+
+ ---------  zzz 
+
+asking for love feels  
+
+like im asking for too much  
+
+neglect, my best friend  
+
