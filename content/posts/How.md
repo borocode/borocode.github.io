@@ -21,5 +21,7 @@ edit
 should I close?
 
 
-### [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
+## [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
 
+edit
+I didn't close................
