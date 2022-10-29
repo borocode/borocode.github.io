@@ -60,3 +60,16 @@ feel like it'd be wise to close here... let's see what I do...
 what if 2000 tomorrow though...  
 
 ![](https://www.tradingview.com/x/7NNopcY2/)
+
+ok i closed it, want to get at least 4 hours of sleep tonight...  
+
+
+![](/msedge_i6WEJAMSNS.png)  
+
+![](/msedge_DYQ1zEjwO6.png)  
+
+![](https://www.tradingview.com/x/TtJlgcGl/)  
+
+
+
+## [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
