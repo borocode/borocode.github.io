@@ -49,3 +49,14 @@ itll probably reverse after I commit this ss
 edit  
 
 ## [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)
+
+
+edit  
+
+feel like it'd be wise to close here... let's see what I do...
+
+![](/msedge_RC6XykYVBF.png)  
+
+what if 2000 tomorrow though...  
+
+![](https://www.tradingview.com/x/7NNopcY2/)
