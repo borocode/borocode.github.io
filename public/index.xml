@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 04:09:28 -0400</lastBuildDate><atom:link href="https://borocode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 05:05:41 -0400</lastBuildDate><atom:link href="https://borocode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changed Push Mirror</title>
+      <link>https://borocode.github.io/posts/changed-push-mirror/</link>
+      <pubDate>Sun, 30 Oct 2022 05:05:41 -0400</pubDate>
+      
+      <guid>https://borocode.github.io/posts/changed-push-mirror/</guid>
+      <description>woah i didn&amp;rsquo;t know i could lower the push mirror MIN_INTERVAL (https://github.com/go-gitea/gitea/issues/8252#issuecomment-534138330) to 1m thought the min was 25m just had to add it to the config (https://community.</description>
+    </item>
+    
     <item>
       <title>I Am Down So Bad</title>
       <link>https://borocode.github.io/posts/i-am-down-so-bad/</link>
