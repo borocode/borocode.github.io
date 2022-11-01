@@ -15,3 +15,11 @@ https://www.scatter.art/collection/0xdcdab41a6e30816fa47a42f4ffba8d80ac13f612?ta
 
 
 looking forward to it, hopefully I get one
+
+edit  
+
+i got one  
+
+![](/47.webp)
+
+wowwwwwww
