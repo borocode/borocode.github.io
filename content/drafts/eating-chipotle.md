@@ -1,7 +1,7 @@
 ---
 title: "Eating Chipotle"
 date: 2022-10-23T21:34:16-04:00
-draft: false
+draft: true
 ---
 
 eating chipotle well really only eating the chips and queso; my bowl is getting cold writing this im realizing i don't have a good enough vocabulary to write non-tweets let alone long form blog posts and have not absorbed enough non-fiction, academia or not, to relay any sort of useful actionable information 

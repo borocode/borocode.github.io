@@ -1,7 +1,7 @@
 ---
 title: "Trying Hugo From Umbrel"
 date: 2022-08-14T11:40:22Z
-draft: false
+draft: true
 ---
 okay. 
 
