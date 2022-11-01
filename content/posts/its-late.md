@@ -12,4 +12,4 @@ wonder how much openai will bill me for that (i put the periods at the end of se
 
 edit  
 
-its bussin
+its bussin  
