@@ -23,4 +23,4 @@ ok we're backk
 
 edit  
 
-i gotta pee so bad!!!!!!!!!!!!!!!!!!
+i gotta pee so bad!!!!!!!!!!!!!!!!!! if i get liquidated im unstaking all my pxldy and market selling!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
