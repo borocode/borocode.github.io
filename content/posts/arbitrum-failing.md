@@ -14,3 +14,8 @@ holy shit arbitrum is down hasnt even been like 12 hours since i went long all i
 what my position looks like rn  
 
 ![](/msedge_cwzQSaiYko.png)  
+
+
+ok we're backk
+
+![](/msedge_sltNqJn5KU.gif)  
