@@ -34,4 +34,10 @@ damn im getting rekt! ![](https://www.tradingview.com/x/nyfhORYi/)
 ![](/msedge_EZcrtKgp3b.png)  
 
 
-eating polao and chicken my momma made its good no pics sorry typin and commiting tghis post with me l;eft hand
+eating polao and chicken my momma made its good no pics sorry typin and commiting tghis post with me l;eft hand  
+
+edit  
+
+im typing this with both hands food was good pre heated the oven for  toll house chocolate chip cookies listening to the milady turntablefm hope we punp
+
+## [Click here to trade with me (referral code) on Arbitrum or Avalanche at GMX!!!!!](https://share.gmx.io/api/s?id=krfwoao8sxwvp0pevyuo&ref=boro)  
