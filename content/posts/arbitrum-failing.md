@@ -23,4 +23,15 @@ ok we're backk
 
 edit  
 
-i gotta pee so bad!!!!!!!!!!!!!!!!!! if i get liquidated im unstaking all my pxldy and market selling!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+i gotta pee so bad!!!!!!!!!!!!!!!!!! if i get liquidated im unstaking all my pxldy and market selling!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+
+
+edit
+
+damn im getting rekt! ![](https://www.tradingview.com/x/nyfhORYi/)
+
+
+![](/msedge_EZcrtKgp3b.png)  
+
+
+eating polao and chicken my momma made its good no pics sorry typin and commiting tghis post with me l;eft hand
