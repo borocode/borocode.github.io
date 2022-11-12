@@ -1,5 +1,5 @@
 ---
-title: "Ftx Stole Your Money"
+title: "FTX Stole Your Money"
 date: 2022-11-12T01:31:32-05:00
 draft: false
 ---
