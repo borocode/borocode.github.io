@@ -43,3 +43,10 @@ edit i
 
 
 cant trust these hoes to come over
+
+
+
+edit....
+
+
+canr take this any longer..................
