@@ -9,3 +9,8 @@ im thinking about booking a flight to [redacted] and dming her that  im in her c
 edit
 
 i wanna fuck her so bad. i feel like we've been dragging it out too long now. i want her to think of me when were apart. i wanna make it so were never apart
+
+edit 
+
+
+its probably silky af. imagine the smell.  i need. that......................FUCK!!!!!!!!!!!!!!!!!!!
