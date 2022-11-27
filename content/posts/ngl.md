@@ -24,3 +24,9 @@ if yuou know who im atalking about please dont tell them i want to brred them cu
 edit
 
 she would never fuck me lol i gotta just deal with it delusional rishad rertard
+
+
+edit
+
+
+i need to come to grips with reality my problem is i wish i had enough money for this asian massagae place
