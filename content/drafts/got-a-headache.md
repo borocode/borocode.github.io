@@ -1,7 +1,7 @@
 ---
 title: "Got a Headache"
 date: 2022-10-26T15:10:54-04:00
-draft: false
+draft: true
 ---
 
 it hoits  

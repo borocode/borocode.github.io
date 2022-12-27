@@ -1,7 +1,7 @@
 ---
 title: "Just Woke Up Again"
 date: 2022-11-01T16:44:31-04:00
-draft: false
+draft: true
 ---
 
 felt super tired after my rice and shrimp, just woke up rn 445pm   

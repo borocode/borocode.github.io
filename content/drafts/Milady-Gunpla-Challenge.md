@@ -1,7 +1,7 @@
 ---
 title: "Milady Gunpla Challenge"
 date: 2022-10-26T19:18:12-04:00
-draft: false
+draft: true
 ---
 
 this is my entry image

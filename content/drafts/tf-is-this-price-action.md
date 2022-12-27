@@ -1,7 +1,7 @@
 ---
 title: "Tf Is This Price Action"
 date: 2022-11-02T17:47:15-04:00
-draft: false
+draft: true
 ---
 
 ![](https://www.tradingview.com/x/0UZNg15K/)  

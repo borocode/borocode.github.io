@@ -1,7 +1,7 @@
 ---
 title: "How"
 date: 2022-10-28T09:17:37-04:00
-draft: false
+draft: true
 toc: false
 ---
 

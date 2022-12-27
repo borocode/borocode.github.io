@@ -1,7 +1,7 @@
 ---
 title: "Okay Time for an Update"
 date: 2022-08-15T20:24:02-04:00
-draft: false
+draft: true
 ---
 
 Didn't get too much done on this yesterday but got the Arch install working on the $40 1tb NVMe I picked up on Facebook Marketplace. The seller mentioned it was their main drive for three years... naturally, I wrote the drive off as faulty when a fresh Arch install would just crash randomly. 
