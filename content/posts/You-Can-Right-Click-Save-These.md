@@ -8,8 +8,6 @@ wanted a cool pixelady but can't afford to mint one? here are a few I own that y
 
 ![1237](/1237.png)  
 
-![4206](/4206.png)  
-
 ![4229](/4229.png)  
 
 ![4231](/4231.png)  
