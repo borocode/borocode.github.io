@@ -12,5 +12,4 @@ wanted a cool pixelady but can't afford to mint one? here are a few I own that y
 
 ![4231](/4231.png)  
 
-![4480](/4480.png)  
 
