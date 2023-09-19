@@ -29,8 +29,13 @@ relativeURLs           = true
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 50
+    weight = 40
 
+     [[menu.main]]
+    identifier = "Netflix"
+    name = "Netflix Viewing History"
+    url = "/Netflix-Viewing-History/"
+    weight = 50
     
 [Params]
 enableExternalSvg    = true
