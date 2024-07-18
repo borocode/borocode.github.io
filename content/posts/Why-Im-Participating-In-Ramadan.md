@@ -1,7 +1,7 @@
 ---
 title: "Why I'm Partibipating in Ramadan Abbording To BhatGPT"
 date: 2023-03-22T09:49:19-04:00
-draft: false
+draft: true
 ---
 
 Ramadan is a special month for Muslims around the world. It is a time when they abstain from food, drink and sexual relations from dawn to sunset, as an act of worship and obedience to Allah. But what if you haven't fasted Ramadan for a long time? What if you have missed many years of this blessed month due to laziness, ignorance or other excuses? Is it too late to start fasting again? What are the benefits of fasting Ramadan after a long gap?
