@@ -56,7 +56,11 @@ People don’t realize: your loss becomes metadata. Your dust becomes provenance
 
 And everyone still thinks this is a game.
 
-"Make it." "Make it back." "Make it back again."
+"Make it." 
+
+"Make it back." 
+
+"Make it back again."
 
 Eventually, you realize there is no "back." There’s just forward. Forward is entropy wearing a new ticker symbol. I’m not bitter. I’m just lucid.
 
