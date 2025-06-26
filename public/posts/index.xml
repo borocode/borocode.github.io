@@ -2,221 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blog</title>
-    <link>https://borocode.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright>
-    <lastBuildDate>Sat, 12 Nov 2022 16:25:39 -0500</lastBuildDate><atom:link href="https://borocode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>kekw</copyright>
+    <lastBuildDate>Thu, 26 Jun 2025 08:20:26 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Check This Out</title>
-      <link>https://borocode.github.io/posts/check-this-out/</link>
-      <pubDate>Sat, 12 Nov 2022 16:25:39 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/check-this-out/</guid>
-      <description>kinda cool if you ask me.</description>
+      <title>YOU CANNOT FORK THE SOUL</title>
+      <link>http://localhost:1313/posts/you-cannot-fork-the-soul/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/posts/you-cannot-fork-the-soul/</guid>
+      <description>compiled in silence. broadcast without consent.</description>
     </item>
-    
     <item>
-      <title>FTX Stole Your Money</title>
-      <link>https://borocode.github.io/posts/ftx-stole-your-money/</link>
-      <pubDate>Sat, 12 Nov 2022 01:31:32 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/ftx-stole-your-money/</guid>
-      <description>and what are you gonna do about it? nothing.</description>
+      <title>ChatCIA</title>
+      <link>http://localhost:1313/posts/chatcia/</link>
+      <pubDate>Tue, 29 Oct 2024 01:23:20 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chatcia/</guid>
+      <description>&lt;h3 id=&#34;model&#34;&gt;&lt;strong&gt;Model:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;ChatGPT 4o&lt;/p&gt;&#xA;&lt;h3 id=&#34;prompt&#34;&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies-no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol. Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Your Mother Sucks My Cock</title>
-      <link>https://borocode.github.io/posts/your-mother-sucks-my-cock/</link>
-      <pubDate>Fri, 11 Nov 2022 12:14:16 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/your-mother-sucks-my-cock/</guid>
-      <description>really well.
-I am sorry to be the one to tell you, fella.</description>
+      <title>Miss Using This</title>
+      <link>http://localhost:1313/posts/miss-using-this/</link>
+      <pubDate>Thu, 12 Jan 2023 09:03:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/miss-using-this/</guid>
+      <description>&lt;p&gt;I am live on Twitch basically 24 hours now. I have tens of thousands of cc debt. All my &amp;ldquo;dreams&amp;rdquo; have been dissolved and I am still in denial about it.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Grifto Ultimatum</title>
-      <link>https://borocode.github.io/posts/grifto-ultimatum/</link>
-      <pubDate>Thu, 10 Nov 2022 15:37:06 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/grifto-ultimatum/</guid>
-      <description>So, the only way markets go up is if Nigeria and India financial regulatory arms of the government start a full cooperative investigation of the United States Internal Revenue Service.</description>
-    </item>
-    
-    <item>
-      <title>Why Markets Dunping So Hard</title>
-      <link>https://borocode.github.io/posts/why-markets-dunping-so-hard/</link>
-      <pubDate>Wed, 09 Nov 2022 09:30:38 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/why-markets-dunping-so-hard/</guid>
-      <description>idk tbh 😂</description>
-    </item>
-    
-    <item>
-      <title>Slept for a While</title>
-      <link>https://borocode.github.io/posts/slept-for-a-while/</link>
-      <pubDate>Mon, 07 Nov 2022 08:40:54 -0500</pubDate>
-      
-      <guid>https://borocode.github.io/posts/slept-for-a-while/</guid>
-      <description>wassup I slept from 3pm to 845am looks like the cz vs caroline sam sam thing didn&amp;rsquo;t play out how everyone wanted it to play out</description>
-    </item>
-    
-    <item>
-      <title>Damn Missed the Obvious Long</title>
-      <link>https://borocode.github.io/posts/damn-missed-the-obvious-long/</link>
-      <pubDate>Fri, 04 Nov 2022 02:41:58 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/damn-missed-the-obvious-long/</guid>
-      <description>woke up 20 mins ago its 245am i just took 37.5mg armodafinil outta cannabis flower and out of cash IRL cant believe i missed this long but whatever no plans for the day gonna smoke a bowl full of grinder kief, poop and do some squats or something</description>
-    </item>
-    
-    <item>
-      <title>Tf Is This Price Action</title>
-      <link>https://borocode.github.io/posts/tf-is-this-price-action/</link>
-      <pubDate>Wed, 02 Nov 2022 17:47:15 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/tf-is-this-price-action/</guid>
-      <description>absolutely hideous so glad I didn&amp;rsquo;t take a long before bed, unsure what the markets will do, havent looked at anything else yet</description>
-    </item>
-    
-    <item>
-      <title>Arbitrum Failing</title>
-      <link>https://borocode.github.io/posts/arbitrum-failing/</link>
-      <pubDate>Tue, 01 Nov 2022 21:04:34 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/arbitrum-failing/</guid>
-      <description>holy shit arbitrum is down hasnt even been like 12 hours since i went long all in 30x on GMX again im gonna get linquidated wtaf bitcoin is #1 fr fr arbiscan says last tx was 21m ago holy shitttttt</description>
-    </item>
-    
-    <item>
-      <title>RIP Takeoff</title>
-      <link>https://borocode.github.io/posts/rip-takeoff/</link>
-      <pubDate>Tue, 01 Nov 2022 17:15:39 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/rip-takeoff/</guid>
-      <description>damn just read the news wtf man</description>
-    </item>
-    
-    <item>
-      <title>Just Woke Up Again</title>
-      <link>https://borocode.github.io/posts/just-woke-up-again/</link>
-      <pubDate>Tue, 01 Nov 2022 16:44:31 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/just-woke-up-again/</guid>
-      <description>felt super tired after my rice and shrimp, just woke up rn 445pm
-1 hour til public Bisou Bijouterie mint</description>
-    </item>
-    
-    <item>
-      <title>Its Late</title>
-      <link>https://borocode.github.io/posts/its-late/</link>
-      <pubDate>Mon, 31 Oct 2022 23:16:36 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/its-late/</guid>
-      <description>slept all day woke up when first trick or treater rang door bell and walked away when none of us answered.</description>
-    </item>
-    
-    <item>
-      <title>Cant Wait for Mine</title>
-      <link>https://borocode.github.io/posts/cant-wait-for-mine/</link>
-      <pubDate>Mon, 31 Oct 2022 12:10:29 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/cant-wait-for-mine/</guid>
-      <description>Amazing story🥲:
-A guy from our Discord found a poor cat in the garden. The cat had an animal RFID tag implant (FDX-B 134kHz), so he scanned it with Flipper, found the cat&amp;#39;s owner via the local animal ID database, and they were reunited Turned out that 🐈 was missing for 2 years!</description>
-    </item>
-    
-    <item>
-      <title>Changed Push Mirror</title>
-      <link>https://borocode.github.io/posts/changed-push-mirror/</link>
-      <pubDate>Sun, 30 Oct 2022 05:05:41 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/changed-push-mirror/</guid>
-      <description>woah i didn&amp;rsquo;t know i could lower the push mirror MIN_INTERVAL (https://github.com/go-gitea/gitea/issues/8252#issuecomment-534138330) to 1m thought the min was 25m just had to add it to the config (https://community.</description>
-    </item>
-    
-    <item>
-      <title>I Am Down So Bad</title>
-      <link>https://borocode.github.io/posts/i-am-down-so-bad/</link>
-      <pubDate>Sun, 30 Oct 2022 04:09:28 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/i-am-down-so-bad/</guid>
-      <description>I needa go long but also don&amp;rsquo;t wanna get dumped on I got the 1522 to 1582 slice longing 1630 probably not the best idea but also don&amp;rsquo;t wanna miss ten thousand dollar eth</description>
-    </item>
-    
-    <item>
-      <title>How</title>
-      <link>https://borocode.github.io/posts/how/</link>
-      <pubDate>Fri, 28 Oct 2022 09:17:37 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/how/</guid>
-      <description>lmfao surprised i didn&amp;rsquo;t get linquidate
-took this ss after springing up out of my bed cartoonishly
-so close
-ok, so did i catch a generational bootom or not// im tired of closing trades too early</description>
-    </item>
-    
-    <item>
-      <title>New Cabbanis in House</title>
-      <link>https://borocode.github.io/posts/new-cabbanis-in-house/</link>
-      <pubDate>Thu, 27 Oct 2022 18:35:14 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/new-cabbanis-in-house/</guid>
-      <description>lil bro pack landed apple cobbler check out my eighth
-will try it out in a little bit just made a coffee 20 mins ago and didn&amp;rsquo;t even finish my rice and chicken either</description>
-    </item>
-    
-    <item>
-      <title>Milady Gunpla Challenge</title>
-      <link>https://borocode.github.io/posts/milady-gunpla-challenge/</link>
-      <pubDate>Wed, 26 Oct 2022 19:18:12 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/milady-gunpla-challenge/</guid>
-      <description>this is my entry image this is my entry quote RT https://t.co/EsDwLsVM0N pic.twitter.com/thdCIDq1Wt
-&amp;mdash; Rishad (@BoroKhela) October 26, 2022 edit</description>
-    </item>
-    
-    <item>
-      <title>Got a Headache</title>
-      <link>https://borocode.github.io/posts/got-a-headache/</link>
-      <pubDate>Wed, 26 Oct 2022 15:10:54 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/got-a-headache/</guid>
-      <description>it hoits
-also, check out what 3pm from my bed looks like
-good afternoon
-edit
-smoked a bowl pooped brushed teeth caught up on defi/nft stuff realize its because i havent had coffee yet thats why ive got a headache doiiiiiiiii cant believe i&amp;rsquo;m missing this whole move</description>
-    </item>
-    
-    <item>
-      <title>You Can Right Click Save These</title>
-      <link>https://borocode.github.io/posts/you-can-right-click-save-these/</link>
-      <pubDate>Mon, 24 Oct 2022 18:38:18 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/you-can-right-click-save-these/</guid>
-      <description>wanted a cool pixelady but can&amp;rsquo;t afford to mint one? here are a few I own that you can download and use today!</description>
-    </item>
-    
-    <item>
-      <title>Update</title>
-      <link>https://borocode.github.io/posts/update/</link>
-      <pubDate>Mon, 24 Oct 2022 00:23:21 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/update/</guid>
-      <description>blog should be live at blog.boroghor.com and also changed the boroghor.com index.html 1/4 done with chipotle 1230am just put on AIMI KOBAYASHI – final round (18th Chopin Competition, Warsaw)</description>
-    </item>
-    
-    <item>
-      <title>Okay Time for an Update</title>
-      <link>https://borocode.github.io/posts/okay-time-for-an-update/</link>
-      <pubDate>Mon, 15 Aug 2022 20:24:02 -0400</pubDate>
-      
-      <guid>https://borocode.github.io/posts/okay-time-for-an-update/</guid>
-      <description>Didn&amp;rsquo;t get too much done on this yesterday but got the Arch install working on the $40 1tb NVMe I picked up on Facebook Marketplace.</description>
-    </item>
-    
   </channel>
 </rss>

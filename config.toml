@@ -7,7 +7,7 @@ copyright = "kekw"
 summaryLength = 20
 enableGitInfo          = true
 enableInlineShortcodes = true
-paginate               = 250
+pagerSize              = 250
 relativeURLs           = true
 
 

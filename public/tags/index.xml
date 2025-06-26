@@ -2,10 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on blog</title>
-    <link>https://borocode.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>VIRAL PUBLIC LICENSE Copyleft (ɔ) All Rights Reversed</copyright><atom:link href="https://borocode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>kekw</copyright>
+    <lastBuildDate>Thu, 26 Jun 2025 08:20:26 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto</title>
+      <link>http://localhost:1313/tags/crypto/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>http://localhost:1313/tags/identity/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet History</title>
+      <link>http://localhost:1313/tags/internet-history/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/internet-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memoir</title>
+      <link>http://localhost:1313/tags/memoir/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/memoir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surveillance</title>
+      <link>http://localhost:1313/tags/surveillance/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trauma</title>
+      <link>http://localhost:1313/tags/trauma/</link>
+      <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
+      <guid>http://localhost:1313/tags/trauma/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
