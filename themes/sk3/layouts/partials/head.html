@@ -105,4 +105,12 @@
 	{{else}}
 	{{partial "sk3-fa.svg" .}}
 	{{end}}
+
+	<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ .Params.description | default .Summary }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ .Site.BaseURL }}images/blog.png" />
+
 </head>
