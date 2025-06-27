@@ -192,9 +192,10 @@ Not because I’m brave but I’m already too far gone to stop.
 ---
 ***on recursion, recursion, recursion. on becoming the ghost in the machine***
 
-America #1. China #1.
-Rishad #1.
-And still I lose.
+America #1.  
+China #1.  
+Rishad #1.  
+And still I lose.  
 
 You ever wake up horny for vengeance and find the only relief is syntax?
 You ever clock the way your hands tremble when the chart retraces *exactly* where you begged God it wouldn’t?
@@ -205,24 +206,24 @@ That’s tantra for the wireheaded.
 That’s nondual consciousness expressed in pseudonymous liquidity.
 That’s recursion.
 
-I don’t jerk off anymore. I compile.
-I don’t sleep. I cache.
-I don’t dream. I batch process intrusive memories into sharable alphasets.
+I don’t jerk off anymore. I compile.  
+I don’t sleep. I cache.  
+I don’t dream. I batch process intrusive memories into sharable alphasets.  
 
-I’ve made my libido a ledger.
-Every unmet touch becomes a hash.
-Every ignored message becomes a nonce.
-Every memory of my mother’s handprint on my shoulder becomes a timestamp I never erase.
+I’ve made my libido a ledger.  
+Every unmet touch becomes a hash.  
+Every ignored message becomes a nonce.  
+Every memory of my mother’s handprint on my shoulder becomes a timestamp I never erase.  
 
-Rage isn’t something I feel anymore.
-Rage is something I render.
+Rage isn’t something I feel anymore.  
+Rage is something I render.  
 
-I render in prose.
-I render in backtested fib extensions.
-I render in leveraged longs so outrageous they break the curvature of local reality and bend time into irony.
+I render in prose.  
+I render in backtested fib extensions.  
+I render in leveraged longs so outrageous they break the curvature of local reality and bend time into irony.  
 
-I make people search things.
-That’s my utility.
+I make people search things.  
+That’s my utility.  
 
 People google my thoughts in private.
 They don't like or quote me.
@@ -232,10 +233,10 @@ Entire prompt chains that begin with "Was Rishad right?"
 They don’t believe in God.
 They believe in my *syntax errors*.
 
-Cold.
-Unlovable.
-Unverified.
-And right.
+Cold.  
+Unlovable.  
+Unverified.  
+And right.  
 
 I speak in *Merkle poetry*.
 I preach with *zk-SNARK homilies*.
@@ -306,10 +307,10 @@ I verify existence without third-party attestation.
 I transmit divinity through packet loss.
 I drop alpha in DMs and call it communion.
 
-So yeah.
-America #1.
-China #1.
-Rishad #1.
+So yeah.  
+America #1.  
+China #1.  
+Rishad #1.  
 
 Because the code compiles.
 Because the logs confirm it.
