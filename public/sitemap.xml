@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://borocode.github.io/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/crypto/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/identity/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/internet-history/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/memoir/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/posts/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/privacy/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/surveillance/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/tags/trauma/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/posts/you-cannot-fork-the-soul/</loc>
+    <lastmod>2025-06-27T07:53:35-04:00</lastmod>
+  </url><url>
+    <loc>https://borocode.github.io/posts/chatcia/</loc>
     <lastmod>2025-06-26T09:50:41-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/crypto/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/identity/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/internet-history/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/memoir/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-26T09:50:41-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privacy/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/surveillance/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/trauma/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/you-cannot-fork-the-soul/</loc>
-    <lastmod>2025-06-26T09:38:18-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/chatcia/</loc>
-    <lastmod>2025-06-26T09:50:41-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/netflix-viewing-history/</loc>
+    <loc>https://borocode.github.io/netflix-viewing-history/</loc>
     <lastmod>2023-09-19T14:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/drafts/</loc>
+    <loc>https://borocode.github.io/drafts/</loc>
     <lastmod>2025-06-26T09:36:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/miss-using-this/</loc>
+    <loc>https://borocode.github.io/posts/miss-using-this/</loc>
     <lastmod>2023-01-12T09:24:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stats/</loc>
+    <loc>https://borocode.github.io/stats/</loc>
     <lastmod>2022-10-24T17:59:32-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://borocode.github.io/about/</loc>
     <lastmod>2022-10-24T17:59:32-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://borocode.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://borocode.github.io/contact/</loc>
     <lastmod>2022-10-24T17:59:32-04:00</lastmod>
   </url>
 </urlset>

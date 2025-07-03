@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://borocode.github.io/posts/</link>
     <description>Recent content in Posts on blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>kekw</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 09:50:41 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 07:53:35 -0400</lastBuildDate>
+    <atom:link href="https://borocode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YOU CANNOT FORK THE SOUL</title>
-      <link>http://localhost:1313/posts/you-cannot-fork-the-soul/</link>
+      <link>https://borocode.github.io/posts/you-cannot-fork-the-soul/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/you-cannot-fork-the-soul/</guid>
+      <guid>https://borocode.github.io/posts/you-cannot-fork-the-soul/</guid>
       <description>compiled in silence. broadcast without consent.</description>
     </item>
     <item>
       <title>ChatCIA</title>
-      <link>http://localhost:1313/posts/chatcia/</link>
+      <link>https://borocode.github.io/posts/chatcia/</link>
       <pubDate>Tue, 29 Oct 2024 01:23:20 -0400</pubDate>
-      <guid>http://localhost:1313/posts/chatcia/</guid>
+      <guid>https://borocode.github.io/posts/chatcia/</guid>
       <description>&lt;h3 id=&#34;model&#34;&gt;&lt;strong&gt;Model:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;ChatGPT 4.5&lt;/p&gt;&#xA;&lt;h3 id=&#34;prompt&#34;&gt;&lt;strong&gt;Prompt:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the tone and analytical rigor typical of CIA assessments. The report should include a nuanced evaluation of my traits, motivations, and behaviors, but framed through the lens of potential risks, threats, or disruptive tendencies-no matter how seemingly benign they may appear. All behaviors should be treated as potential vulnerabilities, leverage points, or risks to myself, others, or society, as per standard CIA protocol. Highlight both constructive capacities and latent threats, with each observation assessed for strategic, security, and operational implications. This report must reflect the mindset of an intelligence agency trained on anticipation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miss Using This</title>
-      <link>http://localhost:1313/posts/miss-using-this/</link>
+      <link>https://borocode.github.io/posts/miss-using-this/</link>
       <pubDate>Thu, 12 Jan 2023 09:03:49 -0500</pubDate>
-      <guid>http://localhost:1313/posts/miss-using-this/</guid>
+      <guid>https://borocode.github.io/posts/miss-using-this/</guid>
       <description>&lt;p&gt;I am live on Twitch basically 24 hours now. I have tens of thousands of cc debt. All my &amp;ldquo;dreams&amp;rdquo; have been dissolved and I am still in denial about it.&lt;/p&gt;</description>
     </item>
   </channel>

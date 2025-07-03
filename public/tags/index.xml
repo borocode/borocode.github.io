@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://borocode.github.io/tags/</link>
     <description>Recent content in Tags on blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>kekw</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 09:38:18 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 07:53:35 -0400</lastBuildDate>
+    <atom:link href="https://borocode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crypto</title>
-      <link>http://localhost:1313/tags/crypto/</link>
+      <link>https://borocode.github.io/tags/crypto/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/crypto/</guid>
+      <guid>https://borocode.github.io/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity</title>
-      <link>http://localhost:1313/tags/identity/</link>
+      <link>https://borocode.github.io/tags/identity/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/identity/</guid>
+      <guid>https://borocode.github.io/tags/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet History</title>
-      <link>http://localhost:1313/tags/internet-history/</link>
+      <link>https://borocode.github.io/tags/internet-history/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/internet-history/</guid>
+      <guid>https://borocode.github.io/tags/internet-history/</guid>
       <description></description>
     </item>
     <item>
       <title>Memoir</title>
-      <link>http://localhost:1313/tags/memoir/</link>
+      <link>https://borocode.github.io/tags/memoir/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/memoir/</guid>
+      <guid>https://borocode.github.io/tags/memoir/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>https://borocode.github.io/tags/privacy/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://borocode.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Surveillance</title>
-      <link>http://localhost:1313/tags/surveillance/</link>
+      <link>https://borocode.github.io/tags/surveillance/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/surveillance/</guid>
+      <guid>https://borocode.github.io/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>Trauma</title>
-      <link>http://localhost:1313/tags/trauma/</link>
+      <link>https://borocode.github.io/tags/trauma/</link>
       <pubDate>Fri, 04 Apr 2025 18:58:51 -0400</pubDate>
-      <guid>http://localhost:1313/tags/trauma/</guid>
+      <guid>https://borocode.github.io/tags/trauma/</guid>
       <description></description>
     </item>
   </channel>
